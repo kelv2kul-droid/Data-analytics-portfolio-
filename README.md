@@ -12,7 +12,7 @@ Hi, I'm [Morris Kelvin Preebi], a Data Analyst and Digital Ads Specialist. I tur
 
 ### 1. Sales Performance and Efficiency Analysis
 - Built using Excel
-- Analyzed Revenue Trends, customer behaviour and customer behaviour
+- Analyzed Revenue Trends, customer behaviour.
 - Improved performance insights
 
 ### 2. Sleep Duration On Academic Performance Analysis
